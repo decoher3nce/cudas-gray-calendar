@@ -1,0 +1,638 @@
+{
+ "events": [
+  {
+   "kind": "swim",
+   "date": "2026-11-02",
+   "allday": false,
+   "start": "18:30",
+   "end": "20:15",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:30-8:15pm @VMAC(M)"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-03",
+   "allday": false,
+   "start": "18:15",
+   "end": "18:45",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:15-6:45pm @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-03",
+   "allday": false,
+   "start": "18:15",
+   "end": "20:15",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:15-8:15pm @VMAC(M)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-04",
+   "allday": false,
+   "start": "18:15",
+   "end": "20:00",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:15-8:00pm @VMAC(M)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-05",
+   "allday": false,
+   "start": "18:00",
+   "end": "19:45",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:00-7:45pm @VMAC(M)"
+  },
+  {
+   "kind": "note",
+   "date": "2026-11-06",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: ACES FALL/ D-INVITE",
+   "location": "",
+   "raw": "ACES FALL/ D-INVITE"
+  },
+  {
+   "kind": "note",
+   "date": "2026-11-07",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: ACES FALL/ D-INVITE",
+   "location": "",
+   "raw": "ACES FALL/ D-INVITE"
+  },
+  {
+   "kind": "note",
+   "date": "2026-11-08",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: ACES FALL/ D-INVITE",
+   "location": "",
+   "raw": "ACES FALL/ D-INVITE"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-10",
+   "allday": false,
+   "start": "19:00",
+   "end": "19:30",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "7:00-7:30pm @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-10",
+   "allday": false,
+   "start": "19:00",
+   "end": "20:30",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "7:00-8:30pm @VMAC(M)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-11",
+   "allday": false,
+   "start": "18:45",
+   "end": "20:30",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:45-8:30pm @VMAC(S)"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-12",
+   "allday": false,
+   "start": "19:00",
+   "end": "19:30",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "7:00-7:30pm @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-12",
+   "allday": false,
+   "start": "19:00",
+   "end": "20:30",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "7:00-8:30pm @VMAC(M)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-13",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:30",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:30pm @VMAC(M)"
+  },
+  {
+   "kind": "note",
+   "date": "2026-11-14",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: TBA",
+   "location": "",
+   "raw": "TBA"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-16",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:30",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:30pm @VMAC(S)"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-17",
+   "allday": false,
+   "start": "17:30",
+   "end": "18:00",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-6:00pm @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-17",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:30",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:30pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-18",
+   "allday": false,
+   "start": "18:45",
+   "end": "20:30",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:45-8:30pm @VMAC(S)"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-19",
+   "allday": false,
+   "start": "17:30",
+   "end": "18:00",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-6:00pm @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-19",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:30",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:30pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-20",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:30",
+   "title": "Gray swim @VMAC(M)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:30pm @VMAC(M)"
+  },
+  {
+   "kind": "note",
+   "date": "2026-11-21",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: CUDA PENTATHLON",
+   "location": "",
+   "raw": "CUDA PENTATHLON"
+  },
+  {
+   "kind": "note",
+   "date": "2026-11-22",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: CUDA PENTATHLON",
+   "location": "",
+   "raw": "CUDA PENTATHLON"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-23",
+   "allday": false,
+   "start": "08:45",
+   "end": "09:15",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45-9:15am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-23",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-24",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-25",
+   "allday": false,
+   "start": "08:45",
+   "end": "09:15",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45-9:15am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-25",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-26",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-27",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-28",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-11-30",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:15",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:15pm @VMAC(S)"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-12-01",
+   "allday": false,
+   "start": "17:30",
+   "end": "18:00",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-6:00pm @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-01",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:15",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:15pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-02",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:15",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:15pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-03",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:00",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:00pm @VMAC(S)"
+  },
+  {
+   "kind": "note",
+   "date": "2026-12-04",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: PIONEER OPEN",
+   "location": "",
+   "raw": "PIONEER OPEN"
+  },
+  {
+   "kind": "note",
+   "date": "2026-12-05",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: PIONEER OPEN",
+   "location": "",
+   "raw": "PIONEER OPEN"
+  },
+  {
+   "kind": "note",
+   "date": "2026-12-06",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: PIONEER OPEN",
+   "location": "",
+   "raw": "PIONEER OPEN"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-08",
+   "allday": false,
+   "start": "17:45",
+   "end": "19:15",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:45-7:15pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-09",
+   "allday": false,
+   "start": "17:45",
+   "end": "19:15",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:45-7:15pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-10",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:15",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:15pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-11",
+   "allday": false,
+   "start": "17:30",
+   "end": "19:15",
+   "title": "Gray swim @VMAC(S)",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "5:30-7:15pm @VMAC(S)"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-12",
+   "allday": false,
+   "start": "09:00",
+   "end": "11:00",
+   "title": "Gray swim @BCC",
+   "location": "Broomfield Community Center, 280 Spader Way, Broomfield, CO 80020",
+   "raw": "9:00-11:00am @BCC"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-12-12",
+   "allday": false,
+   "start": "10:30",
+   "end": "11:00",
+   "title": "Gray strength @BCC",
+   "location": "Broomfield Community Center, 280 Spader Way, Broomfield, CO 80020",
+   "raw": "10:30-11:00am @BCC"
+  },
+  {
+   "kind": "note",
+   "date": "2026-12-13",
+   "allday": true,
+   "start": "",
+   "end": "",
+   "title": "Gray: FST DUEL",
+   "location": "",
+   "raw": "FST DUEL"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-14",
+   "allday": false,
+   "start": "18:30",
+   "end": "20:15",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:30-8:15pm@VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-15",
+   "allday": false,
+   "start": "18:30",
+   "end": "20:15",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:30-8:15pm@VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-16",
+   "allday": false,
+   "start": "18:30",
+   "end": "20:15",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:30-8:15pm@VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-17",
+   "allday": false,
+   "start": "18:30",
+   "end": "20:15",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:30-8:15pm@VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-18",
+   "allday": false,
+   "start": "18:30",
+   "end": "20:15",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "6:30-8:15pm@VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-19",
+   "allday": false,
+   "start": "09:00",
+   "end": "11:00",
+   "title": "Gray swim @BCC",
+   "location": "Broomfield Community Center, 280 Spader Way, Broomfield, CO 80020",
+   "raw": "9:00-11:00am @BCC"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-12-19",
+   "allday": false,
+   "start": "10:30",
+   "end": "11:00",
+   "title": "Gray strength @BCC",
+   "location": "Broomfield Community Center, 280 Spader Way, Broomfield, CO 80020",
+   "raw": "10:30-11:00am @BCC"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-12-28",
+   "allday": false,
+   "start": "08:45",
+   "end": "09:15",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45-9:15am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-28",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-29",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-12-30",
+   "allday": false,
+   "start": "08:45",
+   "end": "09:15",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45-9:15am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-30",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2026-12-31",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2027-01-01",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "swim",
+   "date": "2027-01-02",
+   "allday": false,
+   "start": "08:45",
+   "end": "10:45",
+   "title": "Gray swim @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45am-10:45am @VMAC"
+  }
+ ],
+ "sequence": {},
+ "last_check": "2026-11-02T10:41:59-07:00",
+ "tabs": [
+  "2026-Nov 2-8",
+  "2026-Nov 9-15",
+  "2026-Nov 16-22",
+  "2026-Nov 23-29",
+  "2026-Nov 30-Dec 6",
+  "2026-Dec 7-13",
+  "2026-Dec 14-20",
+  "2026-Dec 21-27",
+  "2026-Dec 28-Jan 3"
+ ],
+ "warnings": []
+}
