@@ -1,0 +1,43 @@
+name: Update Gray Group calendar
+
+on:
+  schedule:
+    - cron: "17 12 * * *"   # daily ~5:17am MST / 6:17am MDT (GitHub cron is UTC and can run late)
+  workflow_dispatch:         # "Run workflow" button for manual checks
+
+permissions:
+  contents: write
+
+concurrency:
+  group: swimcal
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check schedule, rebuild ICS, email on change
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+        run: python swimcal.py
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name  "swimcal-bot"
+          git config user.email "swimcal-bot@users.noreply.github.com"
+          git add docs/gray.ics state/events.json
+          # state/events.json carries last_check, so this commits daily. That is deliberate:
+          # GitHub disables cron workflows in repos with no activity for 60 days.
+          git commit -m "Schedule check $(date -u +%F)" || echo "Nothing to commit"
+          git push
