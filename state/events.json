@@ -251,16 +251,6 @@
    "raw": "CUDA PENTATHLON"
   },
   {
-   "kind": "strength",
-   "date": "2026-11-23",
-   "allday": false,
-   "start": "08:45",
-   "end": "09:15",
-   "title": "Gray strength @VMAC",
-   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
-   "raw": "8:45-9:15am @VMAC"
-  },
-  {
    "kind": "swim",
    "date": "2026-11-23",
    "allday": false,
@@ -269,6 +259,16 @@
    "title": "Gray swim @VMAC",
    "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
    "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-24",
+   "allday": false,
+   "start": "08:45",
+   "end": "09:15",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45-9:15am @VMAC"
   },
   {
    "kind": "swim",
@@ -279,16 +279,6 @@
    "title": "Gray swim @VMAC",
    "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
    "raw": "8:45am-10:45am @VMAC"
-  },
-  {
-   "kind": "strength",
-   "date": "2026-11-25",
-   "allday": false,
-   "start": "08:45",
-   "end": "09:15",
-   "title": "Gray strength @VMAC",
-   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
-   "raw": "8:45-9:15am @VMAC"
   },
   {
    "kind": "swim",
@@ -309,6 +299,16 @@
    "title": "Gray swim @VMAC",
    "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
    "raw": "8:45am-10:45am @VMAC"
+  },
+  {
+   "kind": "strength",
+   "date": "2026-11-27",
+   "allday": false,
+   "start": "08:45",
+   "end": "09:15",
+   "title": "Gray strength @VMAC",
+   "location": "Veterans Memorial Aquatic Center, 5310 E 136th Ave, Thornton, CO 80241",
+   "raw": "8:45-9:15am @VMAC"
   },
   {
    "kind": "swim",
@@ -632,7 +632,7 @@
   }
  ],
  "sequence": {},
- "last_check": "2026-11-22T12:35:41-07:00",
+ "last_check": "2026-11-23T16:51:11-07:00",
  "tabs": [
   "2026-Nov 16-22",
   "2026-Nov 23-29",
