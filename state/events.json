@@ -451,26 +451,6 @@
    "raw": "5:30-7:15pm @VMAC(S)"
   },
   {
-   "kind": "swim",
-   "date": "2026-12-12",
-   "allday": false,
-   "start": "09:00",
-   "end": "11:00",
-   "title": "Gray swim @BCC",
-   "location": "Broomfield Community Center, 280 Spader Way, Broomfield, CO 80020",
-   "raw": "9:00-11:00am @BCC"
-  },
-  {
-   "kind": "strength",
-   "date": "2026-12-12",
-   "allday": false,
-   "start": "10:30",
-   "end": "11:00",
-   "title": "Gray strength @BCC",
-   "location": "Broomfield Community Center, 280 Spader Way, Broomfield, CO 80020",
-   "raw": "10:30-11:00am @BCC"
-  },
-  {
    "kind": "note",
    "date": "2026-12-13",
    "allday": true,
@@ -632,7 +612,7 @@
   }
  ],
  "sequence": {},
- "last_check": "2026-11-25T14:39:25-07:00",
+ "last_check": "2026-11-26T14:28:51-07:00",
  "tabs": [
   "2026-Nov 16-22",
   "2026-Nov 23-29",
